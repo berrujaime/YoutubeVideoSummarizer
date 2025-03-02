@@ -1,0 +1,10 @@
+.env
+local_settings.py
+db_data/
+*.pyc
+*.pyo
+*.log
+*.bak
+venv/
+.venv/
+pipenv/

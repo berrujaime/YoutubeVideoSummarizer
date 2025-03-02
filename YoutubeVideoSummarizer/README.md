@@ -1,0 +1,2 @@
+# YoutubeVideoSummarizer
+ YoutubeVideoSummarizer django project
