@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-6mw((xt-b+k8i478$1+sm(!btdiltk($*)b$vnkmst4&)kl1*!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['ytsummarizer.es', 'localhost', '.vercel.app', 'www.ytsummarizer.es']
+ALLOWED_HOSTS = ['ytsummarizer.es', 'localhost', '.vercel.app', 'www.ytsummarizer.es', '127.0.0.1']
 
 
 # Application definition
