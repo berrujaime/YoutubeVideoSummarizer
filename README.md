@@ -48,7 +48,7 @@ http://127.0.0.1:8000
 ## 🌐 Live Version  
 
 Check out the live version (which currently has limitations):  
-🔗 [ytsummarizer.es](https://ytsummarizer.es)  
+🔗 [ytsummarizer.es](https://ytsummarizer.es/en)  
 
 ## 🛠️ Using Gemini Instead of OpenAI  
 
